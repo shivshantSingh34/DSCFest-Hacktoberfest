@@ -12,4 +12,3 @@ Smith Gajjar Vivekanand</br>
 Jayesh Kriplani Vivekanand</br>
 abhishek waghmare vivekanand </br>
 shivshant singh TCET </br>
-neha jaiswar TCET </br>
